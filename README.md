@@ -1,7 +1,7 @@
 # COGS118A Final Project
 
 ### Binary Classification: Diabetes Prediction
-  Comparing logistic regression, decision tree, k-nearest neighbors, and SVMs
+  Comparing logistic regression, decision trees, k-nearest neighbors, and SVMs
 
 **Group members**:
 
