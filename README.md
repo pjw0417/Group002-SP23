@@ -1,10 +1,15 @@
-# COGS118A Project template
-This is your group repo for your final project for COGS118A
+# COGS118A Final Project
 
-This repository is publicly visible! We will be using that feature to do peer review of projects.
+### Binary Classification: Diabetes Prediction
+- Comparing logistic regression, decision tree, k-nearest neighbors, and SVMs
 
-Template notebooks for each component are provided. Only work on the notebook prior to its due date. After each submission is due, move onto the next notebook (For example, after the proposal is due, start working in the Data Checkpoint notebook).
+**Group members**:
 
-This is your repo. You are free to manage the repo as you see fit, edit this README, add data files, add scripts, etc. So long as there are the four files above on due dates with the required information, the rest is up to you all.
+- Alex Yu
+- Kevin Park
+- Connor McManigal
+- Shivani Suthar
 
-Also, you are free and encouraged to share this project after the course and to add it to your portfolio. Just be sure to fork it to your GitHub at the end of the quarter!
+**Abstract**:
+
+- This project aims to solve the difficulty associated with making accurate diagnoses of diabetes in patients. If a patient is incorrectly diagnosed, it could lead to dire consequences, such as additional health issues or even death. Our goal is to solve this problem by designing machine learning algorithms that will accurately predict whether a patient has diabetes. Our data encompasses eight features such as age, gender, body mass index(BMI), hypertension, heart disease, smoking history, HbA1c levels, and blood glucose levels, along with their diabetes status: positive or negative. These electronic health records are collected through surveys, medical records, and laboratory tests from individuals by healthcare providers in hospitals or clinics. With this data, we will train multiple binary classification algorithms and select the algorithm that provides the highest sensitivity. We will compare the performances of logistic regression, decision tree, k-nearest neighbor, and support vector machines to see which algorithm best suits our needs. We will measure performance using sensitivity, precision, specificity, ROC-AUC, and precision-recall curves with a heavy emphasis on high recall, as it is important to detect all the positive diabetes cases in order to provide immediate treatment.
