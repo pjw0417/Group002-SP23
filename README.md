@@ -6,7 +6,7 @@
 **Group members**:
 
 - Alex Yu
-- Kevin Park
+- Kevin (Jungwoo) Park
 - Connor McManigal
 - Shivani Suthar
 
